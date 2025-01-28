@@ -1,2 +1,2 @@
-# curso-intensivo-python
-Repositório com os meus aprendizados de Python
+# Python_programming
+Repository with the purpose of recording my Python studies.
